@@ -1,6 +1,8 @@
 # Matplotlib-challenge
 
-# Overview of the analysis performed
+# Pymaceuticals, Inc
+
+# Overview of Pymaceuticals pharmaceutical company analysis performed
 - The datasets were merged into a single DataFrame 
 - Duplicate entries with the same mouse ID and timepoint were identified and removed to ensure data integrity.
 - Summary statistics were calculated for each drug regimen, including mean, median, variance, standard deviation, and standard error of the mean of the tumor volume.
